@@ -13,9 +13,9 @@ body{
 }
 .user-box{
     top:50%;
-    left:38%;
+    left:50%;
     position: absolute;
-    transform: translate(-0%,-50%);
+    transform: translate(-50%,-50%);
 }
 .user-box img{
     border-radius :50%;
